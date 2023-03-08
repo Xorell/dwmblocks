@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"",	"sb-kbselect",	300,	7},
 	{"",	"sb-pacpackages",	0,	8},
 	{"",	"sb-memory",	10,	14},
-	{"",	"sb-cpu",		10,	18},
+	{"",	"sb-cpu",		1,	18},
 	{"",	"sb-temp",		10,	18},
 	/* {"",	"sb-cpubars",	1,	19}, */
 	{"",	"sb-moonphase",	18000,	17},
